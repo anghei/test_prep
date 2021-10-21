@@ -1,0 +1,8 @@
+RESPONSE RATE                                                                                                    
+ 
+ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2                               1.67 (1.06, 2.64)                    
+ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2 (Female)                      1.36 (0.69, 2.70)                    
+ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2 (Male)                        1.99 (1.08, 3.66)                    
+ODDS RATIO (95% CI): Female VS. Male (Treatment 1)                             0.76 (0.42, 1.37)                    
+ODDS RATIO (95% CI): Female VS. Male (Treatment 2)                             1.12 (0.55, 2.26)                    
+INTERACTION P-VALUE                                                            0.0019              
